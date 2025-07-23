@@ -39,7 +39,7 @@ The **Face Recognition-Based Attendance System** automates attendance marking us
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/Face-Recognition-Attendance-System.git
+git clone https://github.com/chiraghalan/Automated-Attendance-System-Using-Face-Recognition.git
 cd Face-Recognition-Attendance-System
 ```
 
@@ -74,8 +74,6 @@ The database **attendance.db** contains the following tables:
 3️⃣ If a **match is found**, the system **logs the attendance** into the SQLite database.
 4️⃣ A bounding box with the student’s name is displayed in real-time.
 
-## 📺 Demo
-![Demo GIF](https://github.com/your-username/Face-Recognition-Attendance-System/blob/main/demo.gif)
 
 ## 🔐 Future Enhancements
 - [ ] **GPS-Based Verification** 📍 (Ensure students are within the classroom before marking attendance)
